@@ -1,1 +1,1 @@
-This project consists of an intelligent web plateforme for detecting deception, it is based on unigrammes, unigrams and naive bayes multinomial for classification. View "Sherlock_holmes.pdf" for more details.
+This project consists of an intelligent web plateforme for detecting deception, it is based on unigrammes, unigrams and naive bayes multinomial for classification. Check "Sherlock_holmes.pdf" for more details.
